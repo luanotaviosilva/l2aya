@@ -1,2 +1,2 @@
-# l2aya
-Este repositório é o site do projeto do jogo Lineage 2, meu servidor private.
+# Lineage-2-Aya
+ Este repositório será criando para se tornar parte do meu portfólio, este site faz parte de um projeto do meu servidor private de Lineage 2.
